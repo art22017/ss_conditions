@@ -10,6 +10,8 @@ var __BLOCKEDSITES__ = [
   "*.4freerussia.org",
   "*.4pda.ru",
   "9tv.co.il",
+  ".sketchup.com",
+  "3dwarehouse.sketchup.com",
   "*.acf.international",
   "*.activatica.org",
   "*.ad.nl",
